@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "TLcYXd9H5G8RCyh05+Af5upuoyEimiEfyfs3bJIaxes=",
+  "Source": "DesafioBackend.Api",
+  "BasePath": "_content/DesafioBackend.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
